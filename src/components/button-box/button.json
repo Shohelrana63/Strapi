@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_button_box_buttons",
+  "info": {
+    "displayName": "button"
+  },
+  "options": {},
+  "attributes": {
+    "btn_text": {
+      "type": "string",
+      "required": true
+    },
+    "btn_link": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
